@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mayank.qrscanner",
+    "sha256_cert_fingerprints":
+    ["7F:D1:D9:53:82:FC:88:AF:72:18:10:2C:36:BF:D2:11:F6:04:8E:48:E8:EE:E0:12:04:CF:9D:69:0B:C0:D1:7D"]
+  }
+}]
